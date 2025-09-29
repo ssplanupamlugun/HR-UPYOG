@@ -1,3 +1,4 @@
+{
 "instrumentTypes": [
    	{
 		"name":"name",
@@ -14,5 +15,7 @@
         "pageSize": 500,
         "currentPage": 0,
         "offset": 0
+    }
+    
     }
     

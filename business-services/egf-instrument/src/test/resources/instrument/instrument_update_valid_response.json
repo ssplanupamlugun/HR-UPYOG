@@ -1,4 +1,4 @@
-"instruments": [
+{"instruments": [
    	{
    			"id":"1",
             "transactionNumber": "transactionNumber",
@@ -14,3 +14,4 @@
    	}
    	
    	]
+ }

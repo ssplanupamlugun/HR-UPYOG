@@ -1,4 +1,4 @@
-"instrumentAccountCodes": [
+{"instrumentAccountCodes": [
         {
             "id": null,
             "instrumentType": {
@@ -10,3 +10,5 @@
             "tenantId": "default"
         }
     ]
+    
+    }

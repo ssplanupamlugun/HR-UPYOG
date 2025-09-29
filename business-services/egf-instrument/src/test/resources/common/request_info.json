@@ -1,3 +1,4 @@
+{
 "requestInfo": {
 	    "action": "action",
 	    "did": "did",
@@ -5,4 +6,6 @@
 	    "requesterId": "requesterId",
 	    "ts": "01-01-2017 01:01:01",
 	    "authToken": null
+    }
+    
     }

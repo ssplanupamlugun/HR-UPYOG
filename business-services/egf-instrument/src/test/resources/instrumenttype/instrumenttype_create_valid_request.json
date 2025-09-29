@@ -1,3 +1,4 @@
+{
 "instrumentTypes": [
    	{
 		"name":"name",
@@ -7,3 +8,5 @@
    	}
    	
    	]
+   	
+   	}

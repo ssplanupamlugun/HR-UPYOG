@@ -1,4 +1,4 @@
-"instrumentAccountCodes": [
+{"instrumentAccountCodes": [
    	{
    		"id":"1",
 		"instrumentType":{
@@ -11,3 +11,5 @@
    	}
    	
    	]
+   	
+  }
